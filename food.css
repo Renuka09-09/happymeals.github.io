@@ -27,4 +27,7 @@
 }
 .button{
     size: 25%;
+    border-width: 15px;
+    padding-left: 10%;
+    padding-right: 10%;
 }
